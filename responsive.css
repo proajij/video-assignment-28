@@ -1,0 +1,142 @@
+@media all and (max-width: 1600px) {
+
+}
+@media all and (max-width: 1400px) {
+
+}
+@media all and (max-width: 1200px) {
+    .slider-caption h4 {
+      
+        margin-bottom: 28px !important;
+        font-size: 29px;
+       
+    }
+}
+@media all and (max-width: 992px) {
+    .navbar-nav.ml-5.mb-2.mb-lg-0 {
+	margin-left: 0px !important;
+	margin-top: 5px;
+	margin-bottom: 10px !important;
+    
+}
+.slider-caption h4 {
+
+	font-size: 22px !important;
+
+}
+.slider-caption h1 {
+	font-size: 36px !important;
+    margin-bottom: 33px !important;
+	
+}
+/* .slider-section .btn {
+
+	
+	
+	width: 343px !important;
+
+	margin-top: 12px !important;
+} */
+.feature-text h1 {
+	font-size: 2.6rem;
+}
+.pricing-item {
+
+	margin-top: 10px;
+}
+
+}
+@media all and (max-width: 768px )  {
+    .slider-caption h4 {
+        font-size: 21px !important;
+        display: block;
+        width: 129% !important;
+    
+  
+        margin-left: -32px;
+    }
+    /* .slider-section .btn {
+        width: 255px !important;
+        margin-top: 12px !important;
+    } */
+    
+    .slider-caption h1 {
+        font-size: 32px !important;
+      
+        display: block;
+        width: 135%;
+        margin-left: -41px;
+    }
+    /* .slider-section .btn {
+        width: 254px !important;
+        margin-top: 12px !important;
+    } */
+    .slider-section {
+        
+   
+     padding: 100px 0 !important;
+      
+     
+    }
+}
+@media all and (max-width: 668px) {
+    /* .slider-section .btn {
+        width: 235px !important;
+      
+    } */
+    .slider-caption h4 {
+   
+     
+        width: 140% !important;
+        margin-left: -48px;
+    }
+    .feature-text h1 {
+        font-size: 1.9rem;
+    }
+    .feature-text p {
+        font-size: 1.4rem !important;
+   
+    }
+    .pricing-section h1 {
+        font-size: 2.4rem !important;
+        
+    }
+    .pricing-section p {
+        font-size: 20px;
+ 
+    }
+}
+@media all and (max-width: 500px) {
+    .slider-caption h4 {
+        width: 168% !important;
+        margin-left: -69px;
+    }
+    .slider-caption h1 {
+
+     
+        width: 156%;
+        margin-left: -55px;
+    }
+    /* .slider-section .btn {
+        width: 197px !important;
+    } */
+}
+@media all and (max-width: 420px) {
+    .slider-caption h4 {
+        width: 188% !important;
+        margin-left: -72px;
+    }
+    .slider-caption h1 {
+        width: 174%;
+        margin-left: -60px;
+    }
+    /* .slider-section .btn {
+        width: 173px !important;
+    } */
+    .slider-section {
+        padding: 55px 0 !important;
+    }
+}
+@media all and (max-width: 380px) {
+
+}
